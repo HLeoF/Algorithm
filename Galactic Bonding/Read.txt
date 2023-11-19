@@ -1,0 +1,68 @@
+******************
+* Name: Maiqi Hou*
+*                *
+******************
+user enter The number of tests T (T ≤ 50) is on the first line.
+Each test case contains the number of stars N (0 ≤ N ≤ 1000) 
+a real distance D (0.00 ≤ D ≤ 1000.00). The next N lines have a 
+pair of real coordinates X Y (−1000.00 ≤ X, Y ≤ 1000.00) 
+for each star.
+
+
+Thank you ^-^
+Here are some examples, you may test the program
+Have a good day！
+
+Examples:
+
+2
+5 1.5
+1.0 0.1
+2.0 0.0
+5.0 0.2
+6.0 0.4
+3.0 -0.1
+3 4.0
+121.12 254.06
+645.04 301.85
+912.49 568.96
+
+Output:
+case 1: 2
+case 2: 3
+
+
+2
+3 1.0
+1.0 1.0
+2.0 1.0
+3.0 1.0
+4 2.0
+1.0 1.0
+1.0 -1.0
+-1.0 -1.0
+-1.0 1.0
+
+
+Output:
+case 1: 1
+case 2: 1
+
+
+1
+11  110.89
+779.34 860.88
+687.04 705.34
+713.13 752.01
+803.7 839.82
+572.43 803.24
+765.7 540.4
+545.35 904.29
+855.76 536.6
+739.73 521.55
+854.18 967.71
+790.16 626.43
+
+
+Output:
+case 1: 5
